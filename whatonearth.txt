@@ -1,4 +1,4 @@
-It's weird, I have no acces to my repository.
+Something weird, I did the same operation with gw.txt and doesn't work. Git don't see changes. 
 
-Maybe it's my own stupidity. 
+
 

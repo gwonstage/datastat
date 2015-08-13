@@ -1,2 +1,19 @@
-No way to restore my files in other folder. 
+﻿Zacząłem nieco dokładniej przyglądać się Git- owi, głównie pod kątem wykorzystania go do pisania pewnych rzeczy, które być może zapomnę w swoim czasie. Na razie otworzyłm repozytorium, chciałem otworzył plik nothing.txt. Otworzył mi się katalog (na dysku C), w którym rzeczony plik się znajdował. Otworzyłem go do edycji, domyślnym edytorem jest EditPad, niby dobry, ale wiersze upycha za gęsto i są nieco długie. Zobaczymy, może to zmienić. Teraz zapiszę plik i wracam do Gita, ciekawe co mi powie.
+
+
+Okazało się, że zapisany w EditPad plik nie ma polskich znaków, Git ich nie rozpoznaje, OpenOffice też. Teraz piszę właśnie w OO i zobaczę, jak się czują polskie znaki i jak Git zareaguje na zmiany.
+
+W OO wszystko jest w porządku i polskie znaki są jak najbardziej obecne. Poprawię, com wpisał.
+
+Notepad++ też ładnie koduje polskie znaki, ale ma ustawiony język angielski i wszystko podkreśla. Trudno, poza tym małe literki.
+
+Zostawiłem w Gicie tylko repozytorium datastat i parę plików, na razie pracuję z jednym.
+
+Po wprowadzeniu zmian git ich nie widzi przed zapisaniem pliku.
+
+Ok. zainstalowałem sprawdzanie języka dla polskiego i z rozpędu dla francuskiego i rosyjskiego. 
+
+To na razie (05.08.2015)
+
+Teraz wprowadzę zmiany do tekstu bez uruchamiania gita, potem je zapiszę i zobaczę, co git na to. Szukam opisu pakietu stringr, do R, podobno warto się nim zainteresować.
 
